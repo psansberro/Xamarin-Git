@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Xamarin_Git"
              x:Class="Xamarin_Git.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Hola Gatos!"
            VerticalOptions="Center"
            HorizontalOptions="Center" />
 
